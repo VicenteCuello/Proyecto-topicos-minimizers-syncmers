@@ -64,6 +64,7 @@ public:
             if (tables[i][indices[i]] < current_min) {
                 current_min = tables[i][indices[i]];
             }
+        }    
 
         uint32_t new_value = current_min + count;
         for (int i = 0; i < depth; ++i) {
