@@ -90,5 +90,11 @@ Los comandos para ejecutar los códigos son los siguientes:
 1. g++ -std=c++17 -O3 -o compare\_global compare\_accuracy\_global.cpp
 2. Aquí depende de que archivos quieres comparar, por ejemplo:
 
-   - .\\compare\_global ../minimizer/minimizer\_sketch\_CU.bin ../minimizer/exact\_countsT.txt
+   * .\\compare\_global ../minimizer/minimizer\_sketch\_CU.bin ../minimizer/exact\_countsT.txt
+
+* query_sketch.cpp (Codigo para ejecutar archivos .bin y buscar kmers que se añadieron al sketch):
+
+1. g++ -std=c++17 -O3 -o query_sketch query_sketch.cpp
+2. .\query_sketch   
+   
 
