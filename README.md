@@ -15,16 +15,14 @@ Los comandos para ejecutar los códigos son los siguientes:
 * minimizer\_sketch.cpp (Minimizer con Countmin): 
 
 1. g++ -std=c++17 -O3 -o minimizer\_sketch minimizer\_sketch.cpp
-
-&nbsp;2. .\\minimizer\_sketch
+2. .\\minimizer\_sketch
 
 
 
 * minimizer\_sketch\_CU.cpp (Minimizer con Countmin CU):
 
 1. g++ -std=c++17 -O3 -o minimizer\_sketch\_CU minimizer\_sketch\_CU.cpp
-
-&nbsp;2. .\\minimizer\_sketch\_CU
+2. .\\minimizer\_sketch\_CU
 
 
 
@@ -45,40 +43,35 @@ Los comandos para ejecutar los códigos son los siguientes:
 * all\_kmers\_sketch\_CU.cpp (Método ingenuo con Countmin CU):
 
 1. g++ -std=c++17 -O3 -o all\_kmers\_sketch\_CU all\_kmers\_sketch\_CU.cpp
-
-&nbsp;2. .\\all\_kmers\_sketch\_CU
+2. .\\all\_kmers\_sketch\_CU
 
 
 
 * exact\_all\_kmers\_counter.cpp (Método ingenuo sin Countmin):
 
 1. g++ -std=c++17 -O3 -o exact\_all\_kmers\_counter exact\_all\_kmers\_counter.cpp
-
-&nbsp;2. .\\exact\_all\_kmers\_counter
+2. .\\exact\_all\_kmers\_counter
 
 
 
 * syncmer\_sketch.cpp (Syncmer con Countmin):
 
 1. g++ -std=c++17 -O3 -o syncmer\_sketch syncmer\_sketch.cpp
-
-&nbsp;2. .\\syncmer\_sketch
+2. .\\syncmer\_sketch
 
 
 
 * syncmer\_sketch\_CU.cpp (Syncmer con Countmin CU):
 
 1. g++ -std=c++17 -O3 -o syncmer\_sketch\_CU syncmer\_sketch\_CU.cpp
-
-&nbsp;2. .\\syncmer\_sketch\_CU
+2. .\\syncmer\_sketch\_CU
 
 
 
 * exact\_syncmer\_counter.cpp (Syncmer sin Countmin):
 
 1. g++ -std=c++17 -O3 -o exact\_syncmer\_counter exact\_syncmer\_counter.cpp
-
-&nbsp;2. .\\exact\_syncmer\_counter
+2. .\\exact\_syncmer\_counter
 
 
 
