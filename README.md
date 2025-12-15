@@ -16,7 +16,7 @@ Los comandos para ejecutar los códigos son los siguientes:
 
 1. g++ -std=c++17 -O3 -o minimizer\_sketch minimizer\_sketch.cpp
 
-2\. .\\minimizer\_sketch
+&nbsp;2. .\\minimizer\_sketch
 
 
 
@@ -24,7 +24,7 @@ Los comandos para ejecutar los códigos son los siguientes:
 
 1. g++ -std=c++17 -O3 -o minimizer\_sketch\_CU minimizer\_sketch\_CU.cpp
 
-2\. .\\minimizer\_sketch\_CU
+&nbsp;2. .\\minimizer\_sketch\_CU
 
 
 
@@ -46,7 +46,7 @@ Los comandos para ejecutar los códigos son los siguientes:
 
 1. g++ -std=c++17 -O3 -o all\_kmers\_sketch\_CU all\_kmers\_sketch\_CU.cpp
 
-2\. .\\all\_kmers\_sketch\_CU
+&nbsp;2. .\\all\_kmers\_sketch\_CU
 
 
 
@@ -54,7 +54,7 @@ Los comandos para ejecutar los códigos son los siguientes:
 
 1. g++ -std=c++17 -O3 -o exact\_all\_kmers\_counter exact\_all\_kmers\_counter.cpp
 
-2\. .\\exact\_all\_kmers\_counter
+&nbsp;2. .\\exact\_all\_kmers\_counter
 
 
 
@@ -62,7 +62,7 @@ Los comandos para ejecutar los códigos son los siguientes:
 
 1. g++ -std=c++17 -O3 -o syncmer\_sketch syncmer\_sketch.cpp
 
-2\. .\\syncmer\_sketch
+&nbsp;2. .\\syncmer\_sketch
 
 
 
@@ -70,7 +70,7 @@ Los comandos para ejecutar los códigos son los siguientes:
 
 1. g++ -std=c++17 -O3 -o syncmer\_sketch\_CU syncmer\_sketch\_CU.cpp
 
-2\. .\\syncmer\_sketch\_CU
+&nbsp;2. .\\syncmer\_sketch\_CU
 
 
 
@@ -78,7 +78,7 @@ Los comandos para ejecutar los códigos son los siguientes:
 
 1. g++ -std=c++17 -O3 -o exact\_syncmer\_counter exact\_syncmer\_counter.cpp
 
-2\. .\\exact\_syncmer\_counter
+&nbsp;2. .\\exact\_syncmer\_counter
 
 
 
