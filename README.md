@@ -4,7 +4,7 @@
 
 Integrantes:
 
-* Vicente Cuello 
+* Vicente Cuello
 * Nicolas Pino
 
 
@@ -12,7 +12,8 @@ Integrantes:
 Los comandos para ejecutar los códigos son los siguientes:
 
 
-* minimizer\_sketch.cpp (Minimizer con Countmin): 
+
+* minimizer\_sketch.cpp (Minimizer con Countmin):
 
 1. g++ -std=c++17 -O3 -o minimizer\_sketch minimizer\_sketch.cpp
 2. .\\minimizer\_sketch
@@ -79,7 +80,8 @@ Los comandos para ejecutar los códigos son los siguientes:
 
 1. g++ -std=c++17 -O3 -o compare\_accuracy compare\_accuracy.cpp
 2. Aquí depende de que archivos quieres comparar, por ejemplo:
-   - .\\compare\_accuracy minimizer\_sketch\_CU.bin exact\_countsT.txt
+
+   * .\\compare\_accuracy ../minimizer/minimizer\_sketch\_CU.bin ../minimizer/exact\_countsT.txt
 
 
 
@@ -88,9 +90,5 @@ Los comandos para ejecutar los códigos son los siguientes:
 1. g++ -std=c++17 -O3 -o compare\_global compare\_accuracy\_global.cpp
 2. Aquí depende de que archivos quieres comparar, por ejemplo:
 
-&nbsp;  - .\\compare\_global minimizer\_sketch\_CU.bin exact\_countsT.txt
-
-
-
-
+   - .\\compare\_global ../minimizer/minimizer\_sketch\_CU.bin ../minimizer/exact\_countsT.txt
 
