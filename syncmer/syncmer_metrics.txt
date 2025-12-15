@@ -1,0 +1,4 @@
+--- Métricas Syncmers ---
+Total Inserciones: 208215568
+Tiempo: 575.027
+Peak Memoria: 49.125

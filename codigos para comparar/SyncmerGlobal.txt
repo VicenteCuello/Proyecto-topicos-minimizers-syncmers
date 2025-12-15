@@ -1,0 +1,5 @@
+--- Resultados Globales ---
+Total Elementos: 6715654
+Elementos con Error: 5625176 (83.7621%)
+Piso de Ruido Promedio (Error Absoluto): 4.3978
+Error Relativo Global Promedio: 228.7155%

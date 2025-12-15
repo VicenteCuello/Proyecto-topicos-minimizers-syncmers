@@ -1,0 +1,4 @@
+--- Métricas Conservative Update (Todos K-mers) ---
+Total Inserciones: 2288092532
+Tiempo: 1542.39
+Peak Memoria: 0

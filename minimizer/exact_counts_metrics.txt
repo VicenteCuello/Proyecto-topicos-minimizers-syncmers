@@ -1,0 +1,6 @@
+--- Métricas de Procesamiento (Conteo Exacto) ---
+Total Archivos FNA: 1398
+Parametros (w, k): (10, 21)
+Total Minimizers Unicos: 14500514
+Tiempo (segundos): 925.226
+Peak Memoria (MB): 1524.7

@@ -1,0 +1,4 @@
+--- Métricas Conservative Update (Minimizers) ---
+Total Inserciones: 415778527
+Tiempo: 999.268
+Peak Memoria: 0

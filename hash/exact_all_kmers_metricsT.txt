@@ -1,0 +1,6 @@
+--- Métricas de Procesamiento (Exacto, Todos los K-mers) ---
+Total Archivos FNA: 1398
+Parametros (k): (21)
+Total K-mers Unicos: 73844900
+Tiempo (segundos): 2423.32
+Peak Memoria (MB): 7249.39

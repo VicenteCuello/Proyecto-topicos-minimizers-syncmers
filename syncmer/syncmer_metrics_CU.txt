@@ -1,0 +1,4 @@
+--- Métricas Conservative Update (Syncmers) ---
+Total Inserciones: 208215568
+Tiempo: 504.256
+Peak Memoria: 0

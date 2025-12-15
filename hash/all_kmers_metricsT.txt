@@ -1,0 +1,7 @@
+--- Métricas de Procesamiento (Todos los K-mers) ---
+Total Archivos FNA: 1398
+Parametros (k): (21)
+Sketch (width, depth): (2000000, 5)
+Total Inserciones (N): 2288092532
+Tiempo (segundos): 1423.6
+Peak Memoria (MB): 49.125

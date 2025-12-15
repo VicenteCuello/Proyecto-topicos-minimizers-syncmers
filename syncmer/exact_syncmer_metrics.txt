@@ -1,0 +1,4 @@
+--- Métricas Syncmers Exactos ---
+Total Únicos: 6715654
+Tiempo: 574.4
+Peak Memoria: 716 MB
